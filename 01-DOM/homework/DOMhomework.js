@@ -38,7 +38,7 @@ ToDo.prototype.completeToDo = function(){
 // Agregar dos parámetros a la función 'buildToDo':
 //    1) Un objeto de la clase ToDo
 //    2) Index numérico
-//
+// GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
 // La función debe realizar lo siguiente:
 //    1) Crear un elemento 'div' y asignárselo a una variable denominada 'toDoShell'
 //    2) Asignarle a 'toDoShell' la clase 'toDoShell'
@@ -155,7 +155,6 @@ function completeToDo(event) {
   // Tu código acá:
   toDoItems[index].completeToDo()
   displayToDos()
-
 }
 
 // Una vez que llegaste a este punto verificá que todos los tests pasen
